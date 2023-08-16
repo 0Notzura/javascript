@@ -1,0 +1,32 @@
+    Construtores e Protótipos:
+        Demonstra a criação de um construtor de objetos usando uma função.
+        Explica como funciona a criação de objetos com o operador new e os passos que ocorrem.
+        Mostra como adicionar métodos ao protótipo da função construtora.
+        Introduz a propriedade prototype dos objetos.
+
+    Herança com Protótipos:
+        Mostra como realizar herança utilizando protótipos.
+        Define um novo construtor student que herda de person.
+        Adiciona um método introduce específico para student ao seu protótipo.
+        Demonstra como linkar o protótipo de student com o de person.
+
+    Classes:
+        Introduz o conceito de classes em JavaScript.
+        Demonstra a criação de uma classe personcl com construtor, métodos e propriedades.
+        Usa os métodos constructor, get e set para manipular atributos de objetos.
+        Apresenta um método estático hey que pode ser chamado na classe.
+
+    Herança com Classes:
+        Mostra como realizar herança utilizando a palavra-chave extends.
+        Cria uma classe studentcl que herda da classe personcl.
+        Define um método introduce específico para studentcl.
+
+    Herança com Object.create:
+        Demonstra a criação de protótipos utilizando Object.create.
+        Cria um protótipo PersonProto com métodos init e calcAge.
+        Utiliza Object.create para criar objetos steven e sarah baseados em PersonProto.
+
+    Herança "Classe" com Object.create:
+        Cria um protótipo StudentProto baseado em PersonProto.
+        Define métodos init e introduce para StudentProto.
+        Cria um objeto jay baseado em StudentProto.

@@ -1,0 +1,9 @@
+    Call e Apply Methods: Esses métodos são usados para invocar uma função, mas permitem definir o valor do this explicitamente e também passar argumentos para a função. call aceita argumentos separados por vírgulas, enquanto apply aceita um array de argumentos.
+
+    Bind Method: O método bind é usado para criar uma nova função que terá um valor fixo para o this e, opcionalmente, argumentos pré-definidos.
+
+    Event Listeners: O exemplo demonstra como usar o método bind para associar um manipulador de eventos (no caso, um clique de botão) a um objeto específico, garantindo que o this da função do manipulador esteja corretamente definido.
+
+    Partial Application: Isso envolve fixar um ou mais argumentos de uma função em uma nova função. A nova função retorna uma função que espera os argumentos restantes.
+
+    IIFE (Immediately Invoked Function Expression): É uma função que é definida e executada imediatamente após a definição. Geralmente é usado para criar um escopo separado e evitar poluição do escopo global.

@@ -1,0 +1,20 @@
+    Métodos Simples para Manipulação de Arrays:
+        slice: O método slice extrai uma parte de um array e retorna um novo array contendo os elementos extraídos.
+        splice: O método splice altera o conteúdo de um array, removendo ou substituindo elementos existentes.
+        reverse: O método reverse inverte a ordem dos elementos em um array.
+        concat: O método concat combina dois ou mais arrays criando um novo array resultante.
+        join: O método join junta todos os elementos de um array em uma única string, usando um separador especificado.
+
+    Método at: O método at (não padrão) é usado para acessar um elemento em um array pela sua posição, incluindo a capacidade de usar índices negativos.
+
+    Métodos de Iteração em Arrays:
+        forEach: O método forEach executa uma função para cada elemento em um array.
+        map: O método map cria um novo array com os resultados da aplicação de uma função a cada elemento do array original.
+        reduce: O método reduce executa uma função em cada elemento de um array, reduzindo-os a um único valor.
+        find: O método find retorna o primeiro elemento que satisfaça uma determinada condição.
+        some: O método some verifica se pelo menos um elemento em um array atende a uma condição.
+        every: O método every verifica se todos os elementos em um array atendem a uma condição.
+
+    Método flat e flatMap: O método flat é usado para "aplanar" arrays aninhados, reduzindo a profundidade do array. O método flatMap é semelhante ao map, mas também aplanará o resultado.
+
+    Método sort: O método sort classifica os elementos de um array em ordem crescente (ou decrescente) com base em uma função de comparação.

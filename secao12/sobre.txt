@@ -1,0 +1,38 @@
+    Conversão e Verificação de Números:
+        O código demonstra a igualdade entre 23 e 23.0.
+        Mostra alguns exemplos de base decimal e conversão de números.
+        Usa Number.parseInt() e Number.parseFloat() para fazer análise numérica de strings.
+        Demonstração de verificações de valor NaN e isFinite.
+        Verifica se um valor é um número inteiro com Number.isInteger.
+
+    Manipulação de Números com o Objeto Math:
+        Demonstração de várias funções matemáticas como sqrt, max, min.
+        Uso do operador ** para cálculos de potência.
+        Uso de métodos como trunc, floor, ceil, round para arredondar números.
+        Uso do método toFixed para formatar decimais com número fixo de casas.
+
+    Operador de Resto (%):
+        Explica o operador de resto % e como ele é usado para verificar se um número é par ou ímpar.
+        Demonstração de como usar % para alternar cores de linhas de tabela.
+
+    Separadores Numéricos:
+        Demonstração do uso de underscore como separador em números legíveis.
+        Exemplos de uso em números grandes, preços e constantes.
+
+    Trabalhando com BigInt:
+        Demonstração da limitação de Number.MAX_SAFE_INTEGER e como usar BigInt.
+        Operações com BigInt e como eles são tratados.
+        Observações sobre comparações e conversões com BigInt.
+
+    Manipulação de Datas:
+        Criação de objetos Date para representar datas.
+        Obtendo diferentes partes de uma data (ano, mês, dia, hora, etc.).
+        Convertendo datas para string em diferentes formatos.
+
+    Formatação Internacional de Números:
+        Utilização de Intl.NumberFormat para formatar números de acordo com a localização.
+        Exemplos de formatação de números para diferentes idiomas e moedas.
+
+    Formatação Internacional de Datas:
+        Utilização de Intl.DateTimeFormat para formatar datas de acordo com a localização.
+        Exemplos de formatação de datas para diferentes idiomas e formatos.

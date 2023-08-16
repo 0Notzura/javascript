@@ -1,0 +1,15 @@
+desestruturando Arrays e Objetos: O código demonstra como desestruturar arrays e objetos. A desestruturação é uma forma de extrair valores de arrays e propriedades de objetos em variáveis individuais, tornando o código mais legível e conciso.
+
+Spread Operator: O spread operator (...) é usado para criar cópias de arrays e objetos, permitindo combinar e estender essas estruturas de dados.
+
+Rest Parameters: O rest parameter (...) é usado para representar um número indefinido de argumentos como um array dentro de uma função.
+
+Looping through Arrays e Objects: O código ilustra como iterar através de arrays e objetos usando loops for...of e como obter as chaves e valores de objetos usando os métodos Object.keys(), Object.values() e Object.entries().
+
+Optional Chaining: O optional chaining (?.) é usado para evitar erros ao acessar propriedades profundas em objetos que podem ser indefinidas ou nulas.
+
+Sets: Sets são estruturas de dados que armazenam valores únicos e não permitem duplicatas.
+
+Maps: Maps são estruturas de dados que permitem associar chaves a valores, semelhante a objetos, mas com maior flexibilidade nas chaves.
+
+Manipulação de Strings: O código demonstra várias operações comuns de manipulação de strings, como busca, substituição, capitalização, divisão e junção.

@@ -1,0 +1,41 @@
+    Modal Window:
+        Criação de variáveis para os elementos do modal.
+        Definição de funções openModal e closeModal para mostrar/ocultar o modal.
+        Manipulação de eventos para abrir e fechar o modal.
+
+    Cookie Message:
+        Criação de uma mensagem de cookie no cabeçalho.
+        Manipulação de eventos para remover a mensagem ao clicar no botão "Got it!".
+
+    Manipulação de CSS:
+        Demonstração de como manipular estilos CSS utilizando JavaScript.
+
+    Botão de Rolagem:
+        Uso do método scrollIntoView para rolar suavemente até a seção 1 ao clicar no botão.
+
+    Links de Navegação:
+        Uso do event delegation para controlar a rolagem suave ao clicar nos links de navegação.
+
+    Tabs de Operações:
+        Implementação de uma funcionalidade de abas que mostra conteúdo correspondente ao ser clicado.
+
+    Efeito de Desbotamento de Links de Navegação:
+        Uso de eventos mouseover e mouseout para desbotar os links de navegação quando o mouse passa sobre eles.
+
+    Menu de Navegação Fixo (Sticky Menu):
+        Uso do IntersectionObserver para criar um menu de navegação fixo à medida que a seção superior sai da visualização.
+
+    Revelar Seções à medida que São Roladas (Scroll Reveal):
+        Uso do IntersectionObserver para revelar as seções à medida que a página é rolada.
+
+    Carregamento Preguiçoso de Imagens (Lazy Loading):
+        Uso do IntersectionObserver para carregar imagens à medida que elas entram na visualização.
+
+    Slider de Imagens:
+        Implementação de um slider de imagens com botões de navegação e pontos de navegação (dots).
+
+    Manipulação de Eventos para Navegar no Slider:
+        Implementação de eventos para navegar pelas imagens no slider usando teclado e botões.
+
+    Criação de Pontos de Navegação (Dots):
+        Criação dos pontos de navegação no slider.
